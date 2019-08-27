@@ -1,0 +1,5 @@
+what should the AI avoid doing?
+
+letting cars be idle for to long
+letting cars collide with eachother
+letting to many cars pile up in one direction

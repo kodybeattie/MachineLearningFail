@@ -1,0 +1,5 @@
+installing the environment
+
+	- go into git
+	- type pip install -e "C:\Users\Kotty\Desktop\Durham College\Classes\Second Semester\Capstone\Project\TrafficLightAI\TrafficLightAI\gym-sim"
+	- hit enter

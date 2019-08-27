@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "TrafficLightAI", "TrafficLightAI\TrafficLightAI.pyproj", "{CD073C98-BBFA-4CD3-A848-0D1AAE7DEF4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD073C98-BBFA-4CD3-A848-0D1AAE7DEF4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD073C98-BBFA-4CD3-A848-0D1AAE7DEF4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D2332AB8-B74C-47E9-B159-5AD49E9B2584}
+	EndGlobalSection
+EndGlobal
